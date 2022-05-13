@@ -12,5 +12,7 @@
   }
   ```
  - Firstly, Merge Sort is used on struct graph 
- - The function `krushkals` to find MST
+ - The function `int krushkals( int E,int V)` to find MST
+ - Time complexity of the Algorithm is: `O(E.logE)`  
+   here, ***log*** represents *log (base 2)* and ***E*** is number of Edges in Graph
  - Output is displays edges in order of selection and their corresponding weights.
