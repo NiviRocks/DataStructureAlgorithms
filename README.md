@@ -1,6 +1,6 @@
 # DataStructureAlgorithms
 *Find various Data Structure Algorithms in C ahead*
-## Find the Direct Link for Codes of Algorithms here 👉 
+## Find the Direct Link and Explaination for Codes of Algorithms here 👉 
 > ***[Krushkal's Algorithm](https://github.com/NiviRocks/DataStructureAlgorithms/Krushkals.c)***
  - This algorithm finds the Minimum Spanning Tree (MST) for a connected undirected weighted Graph. 
  - The algorithm uses structure to represent graph:
