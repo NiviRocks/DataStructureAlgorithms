@@ -1,7 +1,10 @@
 # DataStructureAlgorithms
 *Find various Data Structure Algorithms in C ahead*
-## Find the Direct Link and Explaination for Codes of Algorithms here 👉 
-> ***[Krushkal's Algorithm](https://github.com/NiviRocks/DataStructureAlgorithms/Krushkals.c)***
+## Find the Direct Link and Explaination for Codes of Algorithms here 👉   
+___
+> **Krushkal's Algorithm**  
+___
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/Krushkals.c)*
  - This algorithm finds the Minimum Spanning Tree (MST) for a connected undirected weighted Graph. 
  - The algorithm uses structure to represent graph:
  ```
@@ -15,8 +18,11 @@
  - The function `int krushkals( int E,int V)` to find MST
  - Time complexity of the Algorithm is: `O(E.logE)`  
    here, ***log*** represents *log (base 2)* and ***E*** is number of Edges in Graph
- - Output is displays edges in order of selection and their corresponding weights.
-> ***[N Queen Algorithm](https://github.com/NiviRocks/DataStructureAlgorithms/nqueen.c)***
+ - Output is displays edges in order of selection and their corresponding weights.  
+___
+> **N Queen Algorithm**  
+___
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/nqueen.c)*
  - This algorithm finds the positions for n number of queens in n X n chess board such that there
    are no queen that attack any other queen. 
  - The algorithm uses backtracking.
