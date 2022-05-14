@@ -22,7 +22,7 @@ ___
 ___
 > **N Queen Algorithm**  
 ___
-*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/nqueen.c)*
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/d8c59a2574e86bcef60acb55f5cdd76762d70b28/nqueen.c)*
  - This algorithm finds the positions for n number of queens in n X n chess board such that there
    are no queen that attack any other queen. 
  - The algorithm uses backtracking.
