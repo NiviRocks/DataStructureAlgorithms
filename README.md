@@ -1,5 +1,12 @@
 # DataStructureAlgorithms
-*Find various Data Structure Algorithms in C ahead*
+*Find various Data Structure Algorithms ahead*  
+
+![GitHub language count](https://img.shields.io/github/languages/count/NiviRocks/DataStructureAlgorithms?color=%2314dd93&label=Coding%20Languages)
+![GitHub top language](https://img.shields.io/github/languages/top/NiviRocks/DataStructureAlgorithms?color=%23a01feb)
+![GitHub repo size](https://img.shields.io/github/repo-size/NiviRocks/DataStructureAlgorithms?color=%23ebd31f)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/NiviRocks/DataStructureAlgorithms?color=%23eb3a1f)
+![GitHub last commit](https://img.shields.io/github/last-commit/NiviRocks/DataStructureAlgorithms)
+
 ## Find the Direct Link and Explaination for Codes of Algorithms here 👉   
 ___
 > **Krushkal's Algorithm**  
