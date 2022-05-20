@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  7 11:59:11 2022
-
-@author: LENOVO
-"""
 class Node: 
     def __init__(self,item=None):
         self.data=item
