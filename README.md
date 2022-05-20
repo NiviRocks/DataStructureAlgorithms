@@ -20,3 +20,13 @@ ___
    ![8queens solution example](https://user-images.githubusercontent.com/96379756/168439996-7f6972b2-c7b0-4770-a0c1-c63f26be6374.jpg)
    </details>
  - Time complexity of the Algorithm is: `O(N!)`  
+___
+> **Stack Implementation**  
+___
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/stack%20using%20linked%20list.py)*
+ - A Stack is implemented that allows functions like ```push()```, ```pop()``` and ``` display()```
+ - A stack always follows LIFO rule.
+ - Example of Stack operation: <details><summary>Click Here</summary>  
+   <img width="300" height="200" alt="stack" src="https://user-images.githubusercontent.com/96379756/169552534-15f0a841-2046-41aa-8541-baa813472266.png">
+   </details>
+ - Time complexity of the Algorithm is: `O(N!)`  
