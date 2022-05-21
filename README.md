@@ -24,9 +24,9 @@ ___
 > **Stack Implementation**  
 ___
 *[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/stack%20using%20linked%20list.py)*
- - A Stack is implemented that allows functions like ```push()```, ```pop()``` and ``` display()```
+ - Stack implementation using linked list that allows functions like ```push()```, ```pop()``` and ``` display()```
  - A stack always follows LIFO rule.
  - Example of Stack operation: <details><summary>Click Here</summary>  
    <img width="300" height="200" alt="stack" src="https://user-images.githubusercontent.com/96379756/169552534-15f0a841-2046-41aa-8541-baa813472266.png">
    </details>
- - Time complexity of the Algorithm is: `O(N!)`  
+ - Time complexity of the Algorithm is `O(N)` for all functions.
