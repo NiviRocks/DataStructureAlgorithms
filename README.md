@@ -30,3 +30,10 @@ ___
    <img width="300" height="200" alt="stack" src="https://user-images.githubusercontent.com/96379756/169552534-15f0a841-2046-41aa-8541-baa813472266.png">
    </details>
  - Time complexity of the Algorithm is `O(N)` for all functions.
+___
+> **Deadline Based Job Selection Algorithm**  
+___
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/deadline-based-job-scheme.c)*
+ 
+   
+
