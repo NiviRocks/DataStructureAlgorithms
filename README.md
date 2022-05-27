@@ -33,7 +33,18 @@ ___
 ___
 > **Deadline Based Job Selection Algorithm**  
 ___
-*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/deadline-based-job-scheme.c)*
- 
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/deadline-based-job-scheme.c)*  
+- ```job```, ```profit``` gained by completing them along with ```deadline``` for completing them is provided.
+ - We need to find the jobs that should be selected in order to gain maximum profit within **Overall Deadline for All Jobs**
+ - Example : <details><summary>Click Here</summary>  
+   - Given Jobs, Profits and Deadlines ->  
+       <img width="400" height="80" alt="stack" src="https://user-images.githubusercontent.com/96379756/170748003-91bc79a0-4599-40c6-855f-9401de5bd44d.png"/>  
+   - Sorted Jobs, Profits and Deadline based on Profits ->  
+       <img width="400" height="80" alt="stack" src="https://user-images.githubusercontent.com/96379756/170748985-1af982e1-0525-4aff-b9e6-fa9567a3d200.png"/>  
+   - Let Max Deadline be: 4  
+   - Then selected jobs and the deadline selected to finish them are:  
+       <img width="400" height="50" alt="stack" src="https://user-images.githubusercontent.com/96379756/170750247-a414ee97-2a06-4f8a-bf5d-d809aa97b2b1.png"/>  
+   - Note: Any job with deadline x can be finished within deadline 1 to x assuming each job takes exactly 1 unit time to be completed
+</details>
    
 
