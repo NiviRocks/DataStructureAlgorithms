@@ -45,3 +45,9 @@ ___
  - Let Max Deadline = 4
  <details><summary>Then selected jobs and the deadline selected to finish them are :</summary>   
  <img width="500" height="100" alt="stack" src="https://user-images.githubusercontent.com/96379756/170750247-a414ee97-2a06-4f8a-bf5d-d809aa97b2b1.png"></details>  
+ 
+ ___
+> **Insertion Sort Algorithm**  
+___
+ *[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/insertion%20sort.py)
+ - Insertion Sort is a sorting technique 
