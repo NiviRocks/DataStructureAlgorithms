@@ -49,5 +49,7 @@ ___
  ___
 > **Insertion Sort Algorithm**  
 ___
- *[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/insertion%20sort.py)
+ *[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/insertion%20sort.py)*
  - Insertion Sort is a sorting technique 
+ - Example: <details><summary>How Insertion Sort Works? </summary>   
+  <img width="500" height="500" alt="stack" src="https://user-images.githubusercontent.com/96379756/171092619-f0c5b9f6-a3b1-4506-bf0f-24e803c4bd06.png"></details>
