@@ -1,6 +1,6 @@
-''' INSERTION SORT '''
+# INSERTION SORT 
 
-def isort(lst): 
+def insertion_sort(lst): 
     for i in range(1,len(lst)):
         key=lst[i]
         j=i-1
