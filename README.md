@@ -6,6 +6,8 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/NiviRocks/DataStructureAlgorithms?color=%23ebd31f)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/NiviRocks/DataStructureAlgorithms?color=%23eb3a1f)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NiviRocks/DataStructureAlgorithms)
+![Code Python](https://img.shields.io/badge/Code-Python-yellow?style=flat&logo=python)
+![Code C](https://img.shields.io/badge/Code-C%20program-brightgreen?style=flat&logo=C)
 
 ## Find the Direct Link and Explaination for Codes of Algorithms here 👉   
 ___
