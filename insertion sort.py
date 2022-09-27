@@ -19,15 +19,15 @@ WORST CASE:
 Enter list of nos.:10 9 8 7 6 5 4 3 2 1
 Sorted List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Iterations required : 54
-
+----------------------------------------------
 AVERAGE CASE:
 Enter list of nos.:6 4 7 2 1 5 9 3 10 8
 Sorted List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Iterations required : 26
-
+----------------------------------------------
 BEST CASE:
 Enter list of nos.:1 2 3 4 5 6 7 8 9 10
 Sorted List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 Iterations required : 9
-
+----------------------------------------------
 '''
