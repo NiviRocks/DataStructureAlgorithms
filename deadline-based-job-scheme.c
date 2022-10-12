@@ -6,6 +6,7 @@ void Merge(int *P,int *job,int *DL, int left,int mid, int right){
 	float *P_L, *P_R, *job_L, *job_R, *DL_L, *DL_R;
 	n1=mid-left +1;
 	n2= right-mid;
+	// dynamic space allocation
 	//for profit
 	P_L= (float *)malloc(n1*sizeof(float));
 	P_R= (float *)malloc(n2*sizeof(float));
