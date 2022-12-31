@@ -79,3 +79,38 @@ ___
  - Time complexity of the Algorithm is: `O(E.logE)`  
    here, ***log*** represents *log (base 2)* and ***E*** is number of Edges in Graph
  - Output is displays edges in order of selection and their corresponding weights.  
+ 
+ ___
+> **Breadth First Search (BFS) Algorithm**  
+___
+*[Get Code Link Here](https://github.com/NiviRocks/GraphAlgos/blob/main/BFS.py)*
+ - Function ```addNodes(item)``` creates the graph. 
+ - Input should be an Adjecency List  
+ - Example of graph is given below <details><summary>Click Here</summary>  
+   <img width="300" height="200" alt="stack" src="https://github.com/NiviRocks/GraphAlgos/blob/main/image/bfs%20graph.png">
+   </details>
+ - Function ```Display_BFS(curr)``` displays BFS sequence of graph, takes parameter curr as starting node.
+ - Dry Run :  
+   INPUT: 
+   ```
+   g=[[1,2],[1,4],[2,4],[2,5],[4,7],[4,5],[5,3],[5,1],[5,6],[6,8],[6,3],[8,7]]
+   Graph.graph(g) 
+   print("Display Graph")
+   Graph.ShowGraph()
+   print("BFS Sequence")
+   Graph.Display_BFS(1)
+   ```  
+   OUTPUT:  
+   ```
+   Display Graph
+   1 -> [2, 4]
+   2 -> [4, 5]
+   4 -> [7, 5]
+   5 -> [3, 1, 6]
+   6 -> [8, 3]
+   8 -> [7]
+   BFS Sequence
+   1 2 4 5 7 3 6 8 
+   ```
+ - Time complexity of the Algorithm is: `O(V+E)`  where V is the number of vertices and E is the number of Edges
+
