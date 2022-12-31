@@ -64,7 +64,7 @@ ___
 ___
 > **Krushkal's Algorithm**  
 ___
-*[Get Code Link Here]()*
+*[Get Code Link Here](https://github.com/NiviRocks/DataStructureAlgorithms/blob/main/Krushkal.py)*
  - This algorithm finds the Minimum Spanning Tree (MST) for a connected undirected weighted Graph. 
  - The algorithm uses structure to represent graph:
  ```
